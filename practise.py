@@ -144,4 +144,5 @@ for i in n:
     if not is_duplicate:
         value.append(i)
 print(value)
-
+print("good things")
+print("bad things")
